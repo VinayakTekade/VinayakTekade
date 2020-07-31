@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=VinayakTekade&label=Profile+Views)
-
 #### I am a tech geek from Bengaluru, Karnataka and currently pursuing my B.Tech from Amrita School of Engineering.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-### Experience comes from good judgements and a lot of that comes from bad judgements.
+![](https://komarev.com/ghpvc/?username=VinayakTekade&label=Profile+Views)
 
 [![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=VinayakTekade)](https://VinayakTekade/github-readme-stats)
 
+### Experience comes from good judgements and a lot of that comes from bad judgements.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakTekade)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Learn more about me on [vinayak-tekade.web.app](https://vinayak-tekade.web.app/)

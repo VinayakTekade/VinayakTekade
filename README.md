@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VinayakTekade)
+![](https://komarev.com/ghpvc/?username=VinayakTekade&label=Profile+Views)
 
 #### I am a tech geek from Bengaluru, Karnataka and currently pursuing my B.Tech from Amrita School of Engineering.
-- 🏢 I'm currently working on Full Stack Development.
-- ⚙️ I use `.js`, `.html`, `.css`, `.cpp` daily.
-- 💬 Ping me about anything.
-- 📫 Reach me: [twitter.com/VinayakTekade](twitter.com/VinayakTekade)
-- Learn more about me on [My Portfolio Website](https://vinayak-tekade.web.app/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Experience comes from good judgements and a lot of that comes from bad judgements.
 

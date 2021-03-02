@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences and projects [https://vinayak-tekade.web.app/](https://vinayak-tekade.web.app/)
 
+- ⚡ Fun fact **Experience comes from good judgements and a lot of that comes from bad judgements.**
+
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->

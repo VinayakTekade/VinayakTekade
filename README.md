@@ -26,11 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Frontend Development](https://medium.com/coders-capsule/getting-started-with-frontend-development-c54b17d9dcec?source=rss-a6bf71a9ac09------2)
+- [Explaining Version Control Systems using Git and GitHub](https://medium.com/coders-capsule/explaining-version-control-systems-using-git-and-github-fa46184a5b92?source=rss-a6bf71a9ac09------2)
 - [Setting up your development environment for Web Development](https://medium.com/coders-capsule/setting-up-your-development-environment-for-web-development-ceca447efb0e?source=rss-a6bf71a9ac09------2)
 - [Week of Web: A hands-on tutorial to become a full stack web developer in a week](https://medium.com/coders-capsule/week-of-web-a-hands-on-tutorial-to-become-a-full-stack-web-developer-in-a-week-4871c2f598b9?source=rss-a6bf71a9ac09------2)
 - [Top 20 benefits of having an Educational Email Address](https://medium.com/coders-capsule/top-20-benefits-of-having-an-educational-email-address-91a09795e05?source=rss-a6bf71a9ac09------2)
-- [Getting started with Linux using Windows Subsystem for Linux](https://medium.com/coders-capsule/getting-started-with-linux-using-windows-subsystem-for-linux-66672d0a8680?source=rss-a6bf71a9ac09------2)
-- [Essential Tools to Learn Before Starting with Software Development](https://medium.com/coders-capsule/essential-tools-to-learn-before-starting-with-software-development-3349806e3463?source=rss-a6bf71a9ac09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

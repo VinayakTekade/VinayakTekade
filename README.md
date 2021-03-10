@@ -26,11 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Styling your documents using CSS](https://medium.com/coders-capsule/styling-your-documents-using-css-44224fcc00ab?source=rss-a6bf71a9ac09------2)
 - [Creating web-ready documents with HTML](https://medium.com/coders-capsule/creating-web-ready-documents-with-html-cae34e8ebbc9?source=rss-a6bf71a9ac09------2)
 - [Setting up your development environment for Web Development](https://medium.com/coders-capsule/setting-up-your-development-environment-for-web-development-a22d6dc54fad?source=rss-a6bf71a9ac09------2)
 - [Explaining Version Control Systems using Git and GitHub](https://medium.com/coders-capsule/explaining-version-control-systems-using-git-and-github-510eeb0f8a37?source=rss-a6bf71a9ac09------2)
 - [Getting started with Frontend Development](https://medium.com/coders-capsule/getting-started-with-frontend-development-e770ed4ed303?source=rss-a6bf71a9ac09------2)
-- [Week of Web: A hands-on tutorial to become a full stack web developer in a week](https://medium.com/coders-capsule/week-of-web-a-hands-on-tutorial-to-become-a-full-stack-web-developer-in-a-week-4871c2f598b9?source=rss-a6bf71a9ac09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -26,11 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Node.js](https://medium.com/coders-capsule/getting-started-with-node-js-a557b8e5e9ab?source=rss-a6bf71a9ac09------2)
 - [Getting Started with Backend Development](https://medium.com/coders-capsule/getting-started-with-backend-development-8ce55585e860?source=rss-a6bf71a9ac09------2)
 - [Document Object Model](https://medium.com/coders-capsule/document-object-model-62df1e1bd0b8?source=rss-a6bf71a9ac09------2)
 - [Getting started with Core JavaScript](https://medium.com/coders-capsule/getting-started-with-core-javascript-d3462eb2377f?source=rss-a6bf71a9ac09------2)
 - [Styling your documents using CSS](https://medium.com/coders-capsule/styling-your-documents-using-css-44224fcc00ab?source=rss-a6bf71a9ac09------2)
-- [Creating web-ready documents with HTML](https://medium.com/coders-capsule/creating-web-ready-documents-with-html-cae34e8ebbc9?source=rss-a6bf71a9ac09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

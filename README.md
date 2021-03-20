@@ -26,11 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The middleware, Express.js](https://medium.com/coders-capsule/the-middleware-express-js-f8487f1e802e?source=rss-a6bf71a9ac09------2)
 - [Getting Started with Node.js](https://medium.com/coders-capsule/getting-started-with-node-js-a557b8e5e9ab?source=rss-a6bf71a9ac09------2)
 - [Getting Started with Backend Development](https://medium.com/coders-capsule/getting-started-with-backend-development-8ce55585e860?source=rss-a6bf71a9ac09------2)
 - [Document Object Model](https://medium.com/coders-capsule/document-object-model-62df1e1bd0b8?source=rss-a6bf71a9ac09------2)
 - [Getting started with Core JavaScript](https://medium.com/coders-capsule/getting-started-with-core-javascript-d3462eb2377f?source=rss-a6bf71a9ac09------2)
-- [Styling your documents using CSS](https://medium.com/coders-capsule/styling-your-documents-using-css-44224fcc00ab?source=rss-a6bf71a9ac09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
